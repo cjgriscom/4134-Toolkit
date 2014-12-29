@@ -1,0 +1,58 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="12008004">
+	<Property Name="NI.Lib.ContainingLib" Type="Str">CThread.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../CThread.lvlib</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">%A#!"!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,6!!!*Q(C=T:1^DB."%%;`!59CX9A)#&gt;E2#2+K#R$Y#LY!3(5&amp;BYS7R&amp;I2&lt;6:8=)$)D2$E&amp;;VD3ZT!2^DB4&lt;O^M,O-&gt;]702,@,U`.6&gt;&gt;7&lt;HJ[73HMM0:,[IUX^E[/NP`*P.M.@M5U:8`&gt;P$L`"PR`=^0`2`&amp;J`MRG:0]J`6^026PV^?]4@&amp;`_P%Z8ZL()\5O=?_1@)NBUB27VL/V\`2M(&lt;`!?BP2:RCQ_5^L+`[4_U[&lt;1P,&amp;@S,?L"X`_)'088C&amp;`Y_`W#N/VU/PW&gt;_=@K8VT=CX`U_=@7&lt;V3YZ`Y&lt;^^`V@&gt;/[NXV`?@?(]'`;5&amp;NKSDG%*2;99\&lt;@@9G?[)G?[)G?[)%?[)%?[)%?[)\O[)\O[)\O[):O[):O[):O:98I[%)8OKR]KUHRJ&amp;#3.%G1")/CZ#`B38A3HI3(7S5]#5`#E`!E0)1IY5FY%J[%*_&amp;BGB+?B#@B38A3(F)6ECQ&gt;(:[%B`1+?!+?A#@A#8AIK9!H!!C+"9G$*'!I=!;$A#@A#8A9+O!*?!+?A#@AQ;W!*_!*?!+?A)=J:67CU!Q&gt;(2\3S/&amp;R?"Q?B]@B)&lt;5=(I@(Y8&amp;Y("\+S?&amp;R?"Q)J[#4(!1ZEZQ!Z]&lt;B=8CYS/&amp;R?"Q?B]@BQ68?E*?6'7C'DA[0Q70Q'$Q'D]&amp;$#BE]"I`"9`!90+36Q70Q'$Q'D]&amp;$+2E]"I`"9Y!923EP)ZERU1AS")/(8^EN6NZ3&amp;")LP8[;_YWKOA&amp;6.Z&lt;KBF(&gt;#+IP708&amp;K&lt;Y1V96785$6B6&amp;^9.5(5165,;S;5$61/`[XW"J&lt;95NMA=WR'4&lt;"4I;J@TFQN^NJO^VKP6ZLN6JJO6RKM6BI0J^L.JNJ-JHIZ/4E[L2[2N_XZH!O&gt;9S\VS_;\PRZUZX7[ZM0T;!0Z]&gt;Q0=8/8[EZ[`&lt;D4^^5`'@[UJTL)^L\JHPY$GXZ&amp;8P:[@04`:8\IO-HLC/_V-0WZ^,`=$&lt;K14E&lt;@VKD\T_WE-E!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">302022660</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">CThread Core</Property>
+	<Property Name="NI.XClass.Name" Type="Str">CThread Core</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">CThread Core</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="XNode_Manager" Type="Str">1.5</Property>
+	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="GetDisplayName2.vi" Type="Ability VI" URL="../GetDisplayName2.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetDisplayName2</Property>
+	</Item>
+	<Item Name="Image.vi" Type="Ability VI" URL="../Image.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Image</Property>
+	</Item>
+	<Item Name="Bounds.vi" Type="Ability VI" URL="../Bounds.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Bounds</Property>
+	</Item>
+	<Item Name="GetErrors3.vi" Type="Ability VI" URL="../GetErrors3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetErrors3</Property>
+	</Item>
+	<Item Name="DoubleClick.vi" Type="Ability VI" URL="../DoubleClick.vi">
+		<Property Name="NI.XItem.Name" Type="Str">DoubleClick</Property>
+	</Item>
+	<Item Name="Copy.vi" Type="Ability VI" URL="../Copy.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Copy</Property>
+	</Item>
+	<Item Name="BuildMenu3.vi" Type="Ability VI" URL="../BuildMenu3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">BuildMenu3</Property>
+	</Item>
+	<Item Name="OperateClick.vi" Type="Ability VI" URL="../OperateClick.vi">
+		<Property Name="NI.XItem.Name" Type="Str">OperateClick</Property>
+	</Item>
+	<Item Name="SelectMenu3.vi" Type="Ability VI" URL="../SelectMenu3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">SelectMenu3</Property>
+	</Item>
+	<Item Name="GenerateCode.vi" Type="Ability VI" URL="../GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+	</Item>
+	<Item Name="GetTerms3.vi" Type="Ability VI" URL="../GetTerms3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetTerms3</Property>
+	</Item>
+	<Item Name="AutotoolRegions.vi" Type="Ability VI" URL="../AutotoolRegions.vi">
+		<Property Name="NI.XItem.Name" Type="Str">AutotoolRegions</Property>
+	</Item>
+	<Item Name="ModifyCode.vi" Type="Ability VI" URL="../ModifyCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">ModifyCode</Property>
+	</Item>
+</XNode>

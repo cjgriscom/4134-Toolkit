@@ -1,0 +1,40 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<XNode LVVersion="10008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">%!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+J!!!*Q(C=T:1R&lt;BN"$%7`EA"/KR-YU"89O^)6&gt;!6?19W$L*%COA+L^,K#A#$JW;E7Y&amp;R!N&gt;.E]W9U=GT,XD73'-CM+-V_=MCXH.&amp;+&gt;&lt;S6XED^Y&amp;"`0DD[7`^W7\[K&lt;?P]PH^\`"4`9@,1`V@L7`XN^IHV4`+0$1W/:`C@S.,;WR^XY"&amp;P@]R`%H!L.0F"Q/`&lt;IXKXRPXZ)SH\O_L$J0&gt;,H61^)8HMK@\-0Z*`B'`Y_5&lt;[-^,@Y@U:W&gt;`2]T%U2PVD`W^'^[(P@Q[(P&gt;QIN;6*@6YMM=!=MU0X%DX2%TX2%TX2!TX1!TX1!TX1(&gt;X2(&gt;X2(&gt;X2$&gt;X1$&gt;X1$&gt;VKB\D1B3ZUI&gt;/6J(B3+%G;*%C#16(SF@!E0!F0QM/N%J[%*_&amp;*?")?1J4Q*$Q*4]+4],"-#5`#E`!E0!E0K3J*VAM&gt;HI3(^!JY!J[!*_!*?#CJA#=!#)I&amp;C9-E9#BQ"J/!*_!*?*AKY!FY!J[!*_$"L9!HY!FY!J[!BS7V+V&amp;JSI5/$WHE]$A]$I`$Y`#17A[0Q_0Q/$Q/$_8E]$A]$I24U%E/AJR&amp;4I"TY`!Y00T)Y8&amp;Y("[(R_("68@);W=+4&lt;H1Y4&amp;Y$"[$R_!R?%ABA]@A-8A-(I/(N$*Y$"[$R_!R?#AFA]@A-8A-%+-IZ75E-R9;19:A]0#JJ]8K,E5FM8I&gt;``LVI+I&gt;1,7$J8:AV![#WA;L&lt;:T;BKAV7KW";IV2?W#V"V%$6#OMFF!N5(O_&gt;^A'7W-L&lt;)ENM$EWQ[:F[4]/X/`XWOVWWGQW7K`87KV77C[87CQ7GM`HGMVGGE[HNW_L&gt;VS(-8HO?[EDNNA8[@XH&lt;P,DU^@8XT^?HXW\ODG`[CYP*NX&amp;Z;1\PZFU:^=(+`/CY3MR*&lt;;M+7N,DG/_QXPJ@XAX[F6^.^\JU3]WS#1]!!!!!!</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Property Name="NI.XClass.Loc.Name" Type="Str">CData Flatten/Unflatten</Property>
+	<Property Name="NI.XClass.Name" Type="Str">CData Flatten/Unflatten</Property>
+	<Property Name="NI.XItem.DeclaredLeakProof" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Express" Type="Bool">false</Property>
+	<Property Name="NI.XItem.Name" Type="Str">CData Flatten/Unflatten</Property>
+	<Property Name="NI.XItem.SupportsFatalErrorOut" Type="Bool">false</Property>
+	<Property Name="XNode_Manager" Type="Str">1.5</Property>
+	<Item Name="State.ctl" Type="Ability VI" URL="../State.ctl">
+		<Property Name="NI.XItem.Name" Type="Str">State</Property>
+	</Item>
+	<Item Name="AdaptToInputs.vi" Type="Ability VI" URL="../AdaptToInputs.vi">
+		<Property Name="NI.XItem.Name" Type="Str">AdaptToInputs</Property>
+	</Item>
+	<Item Name="Bounds.vi" Type="Ability VI" URL="../Bounds.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Bounds</Property>
+	</Item>
+	<Item Name="DisplayName.vi" Type="Ability VI" URL="../DisplayName.vi">
+		<Property Name="NI.XItem.Name" Type="Str">DisplayName</Property>
+	</Item>
+	<Item Name="GenerateCode.vi" Type="Ability VI" URL="../GenerateCode.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GenerateCode</Property>
+	</Item>
+	<Item Name="GetTerms3.vi" Type="Ability VI" URL="../GetTerms3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetTerms3</Property>
+	</Item>
+	<Item Name="GetErrors3.vi" Type="Ability VI" URL="../GetErrors3.vi">
+		<Property Name="NI.XItem.Name" Type="Str">GetErrors3</Property>
+	</Item>
+	<Item Name="Image.vi" Type="Ability VI" URL="Image.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Image</Property>
+	</Item>
+	<Item Name="Copy.vi" Type="Ability VI" URL="../Copy.vi">
+		<Property Name="NI.XItem.Name" Type="Str">Copy</Property>
+	</Item>
+</XNode>
